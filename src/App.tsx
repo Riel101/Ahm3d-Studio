@@ -73,7 +73,7 @@ const portfolio = [
     id: 5,
     title: "A Funeral Setup",
     category: "Event Space",
-    image: "https://images.unsplash.com/photo-1544161515-4af6b1d462c2?auto=format&fit=crop&q=80&w=800"
+    image: "https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 6,
