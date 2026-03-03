@@ -49,13 +49,13 @@ const portfolio = [
     id: 1,
     title: "Birthday Setup Design",
     category: "Event Space",
-    image: "./images/IMG-20260117-WA0000.jpg.jpeg"
+    image: "../images/IMG-20260117-WA0000.jpg.jpeg"
   },
   {
     id: 2,
     title: "Modern Minimalist bedroom",
     category: "Interior",
-    image: "./images/bedroom.jpeg"
+    image: "../images/bedroom.jpeg"
   },
   {
     id: 3,
