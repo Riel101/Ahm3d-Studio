@@ -49,49 +49,49 @@ const portfolio = [
     id: 1,
     title: "Birthday Setup Design",
     category: "Event Space",
-    image: "../images/IMG-20260117-WA0000.jpg.jpeg"
+    image: "/images/IMG-20260117-WA0000.jpg.jpeg"
   },
   {
     id: 2,
     title: "Modern Minimalist bedroom",
     category: "Interior",
-    image: "../images/bedroom.jpeg"
+    image: "/images/bedroom.jpeg"
   },
   {
     id: 3,
     title: "Industrial event Concept",
     category: "Event Space",
-    image: "../images/IMG-20251119-WA0002.jpg.jpeg"
+    image: "/images/IMG-20251119-WA0002.jpg.jpeg"
   },
   {
     id: 4,
     title: "A Cozy Room",
     category: "Interior",
-    image: "../images/Cozy-room.jpeg"
+    image: "/images/Cozy-room.jpeg"
   },
   {
     id: 5,
     title: "A Funeral Setup",
     category: "Event Space",
-    image: "../images/IMG-20251119-WA0002.jpg.jpeg"
+    image: "/images/IMG-20251119-WA0002.jpg.jpeg"
   },
   {
     id: 6,
     title: "Detailed Realistic Chair",
     category: "Interior",
-    image: "../images/3d-chair.jpeg"
+    image: "/images/3d-chair.jpeg"
   },
   {
     id: 7,
     title: "A Retirement Setup",
     category: "Event Space",
-    image: "../images/IMG-20251212-WA0056.jpg.jpeg"
+    image: "/images/IMG-20251212-WA0056.jpg.jpeg"
   },
     {
     id: 8,
     title: "An Office Space",
     category: "Interior",
-    image: "../images/Office.jpeg"
+    image: "/images/Office.jpeg"
   }
 ];
 
