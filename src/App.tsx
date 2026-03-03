@@ -289,7 +289,10 @@ export default function App() {
                   <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex flex-col justify-end p-8">
                     <span className="text-emerald-500 text-xs font-bold uppercase tracking-widest mb-2">{item.category}</span>
                     <h4 className="text-2xl font-bold text-white mb-4">{item.title}</h4>
-                    <a href= {item.image} target= "_blank" className="w-fit px-6 py-2 bg-white text-black text-sm font-bold rounded-full hover:bg-emerald-500 transition-colors">
+                    <a 
+                    href= {item.image}
+                    target= "_blank" 
+                    className="w-fit px-6 py-2 bg-white text-black text-sm font-bold rounded-full hover:bg-emerald-500 transition-colors">
                       View Project
                     </a>
                   </div>
