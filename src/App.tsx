@@ -28,7 +28,7 @@ const services = [
     title: "Event Center Design",
     description: "Full-scale 3D visualization of event spaces tailored to specific themes and guest capacities.",
     icon: Layout,
-    image: "/images/IMG-20251119-WA0002.jpg.jpeg"
+    image: "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&q=80&w=800"
   },
   {
     title: "Interior Decor Design",
@@ -49,49 +49,49 @@ const portfolio = [
     id: 1,
     title: "Birthday Setup Design",
     category: "Event Space",
-    image: "/images/IMG-20260117-WA0000.jpg.jpeg"
+    image: "https://images.unsplash.com/photo-1530103043960-ef38714abb15?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 2,
     title: "Modern Minimalist bedroom",
     category: "Interior",
-    image: "/images/bedroom.jpeg"
+    image: "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 3,
     title: "Industrial event Concept",
     category: "Event Space",
-    image: "/images/IMG-20251119-WA0002.jpg.jpeg"
+    image: "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 4,
     title: "A Cozy Room",
     category: "Interior",
-    image: "/images/Cozy-room.jpeg"
+    image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 5,
     title: "A Funeral Setup",
     category: "Event Space",
-    image: "/images/IMG-20251119-WA0002.jpg.jpeg"
+    image: "https://images.unsplash.com/photo-1544161515-4af6b1d462c2?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 6,
     title: "Detailed Realistic Chair",
     category: "Interior",
-    image: "/images/3d-chair.jpeg"
+    image: "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&q=80&w=800"
   },
   {
     id: 7,
     title: "A Retirement Setup",
     category: "Event Space",
-    image: "/images/IMG-20251212-WA0056.jpg.jpeg"
+    image: "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&q=80&w=800"
   },
     {
     id: 8,
     title: "An Office Space",
     category: "Interior",
-    image: "/images/Office.jpeg"
+    image: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800"
   }
 ];
 
