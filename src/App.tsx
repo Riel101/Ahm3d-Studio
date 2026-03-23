@@ -55,7 +55,7 @@ const portfolio = [
     id: 2,
     title: "Modern Minimalist bedroom",
     category: "Interior",
-    image: "./img/bedroom.jpeg"
+    image: "../img/bedroom.jpeg"
   },
   {
     id: 3,
