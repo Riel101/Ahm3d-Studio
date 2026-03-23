@@ -49,49 +49,49 @@ const portfolio = [
     id: 1,
     title: "Birthday Setup Design",
     category: "Event Space",
-    image: "https://images.unsplash.com/photo-1530103043960-ef38714abb15?auto=format&fit=crop&q=80&w=800"
+    image: "/img/birthday.jpeg"
   },
   {
     id: 2,
     title: "Modern Minimalist bedroom",
     category: "Interior",
-    image: "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?auto=format&fit=crop&q=80&w=800"
+    image: "./img/bedroom.jpeg"
   },
   {
     id: 3,
     title: "Industrial event Concept",
     category: "Event Space",
-    image: "https://images.unsplash.com/photo-1519167758481-83f550bb49b3?auto=format&fit=crop&q=80&w=800"
+    image: "/img/event.jpeg"
   },
   {
     id: 4,
     title: "A Cozy Room",
     category: "Interior",
-    image: "https://images.unsplash.com/photo-1513694203232-719a280e022f?auto=format&fit=crop&q=80&w=800"
+    image: "/img/Cozy-room.jpeg"
   },
   {
     id: 5,
     title: "A Funeral Setup",
     category: "Event Space",
-    image: "https://images.unsplash.com/photo-1517059224940-d4af9eec41b7?auto=format&fit=crop&q=80&w=800"
+    image: "/img/funeral.jpeg"
   },
   {
     id: 6,
     title: "Detailed Realistic Chair",
     category: "Interior",
-    image: "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&q=80&w=800"
+    image: "/img/3d-chair.jpeg"
   },
   {
     id: 7,
     title: "A Retirement Setup",
     category: "Event Space",
-    image: "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?auto=format&fit=crop&q=80&w=800"
+    image: "/img/retirement.jpeg"
   },
     {
     id: 8,
     title: "An Office Space",
     category: "Interior",
-    image: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800"
+    image: "/img/Office.jpeg"
   }
 ];
 
